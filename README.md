@@ -1,1 +1,1 @@
-# Learn_Javascript
+# じゃばすく勉強するよ～～～ん
